@@ -66,7 +66,7 @@
 ?: The expression below evaluates to:
 
 ```
- 3 + 6 (2)
+3 + 6 * 2
 ```
 ( ) 18
 (X) 15
