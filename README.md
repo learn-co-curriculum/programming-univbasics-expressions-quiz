@@ -39,7 +39,7 @@
 
 ( ) `''`
 ( ) `/`
-(X) `&#x5c;`
+(X) `\\;`
 ( ) None of the above.
 
 ?:  To join a `String` in Ruby, which symbol is used?
