@@ -51,7 +51,7 @@
 
 ?: A  `TypeError` occurs when:
 
-( ) You concatenate a `Integer` with an `Integer`
+( ) You concatenate an `Integer` with an `Integer`
 (X) You concatenate a `String` with an `Integer`
 ( ) You leave off the `+` symbol
 ( ) You use mixed double and single quotes in an expression.
